@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BaguaMap/static/css/main.073c9b0a.css",
-    "main.js": "/BaguaMap/static/js/main.47cd3a9c.js",
+    "main.js": "/BaguaMap/static/js/main.ddba8952.js",
     "static/js/787.d8223a63.chunk.js": "/BaguaMap/static/js/787.d8223a63.chunk.js",
     "index.html": "/BaguaMap/index.html",
     "main.073c9b0a.css.map": "/BaguaMap/static/css/main.073c9b0a.css.map",
-    "main.47cd3a9c.js.map": "/BaguaMap/static/js/main.47cd3a9c.js.map",
+    "main.ddba8952.js.map": "/BaguaMap/static/js/main.ddba8952.js.map",
     "787.d8223a63.chunk.js.map": "/BaguaMap/static/js/787.d8223a63.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.47cd3a9c.js"
+    "static/js/main.ddba8952.js"
   ]
 }
